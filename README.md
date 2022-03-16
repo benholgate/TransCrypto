@@ -11,6 +11,6 @@ The TransCrypto model is centred around the DistilBERT pre-trained Transformer m
 
 ![image](https://user-images.githubusercontent.com/69303050/158636151-4dfb1758-3f68-4255-9a21-5f6d4c68942e.png)
 
-As an extra exercise, I found that the fine-tuned DistilBERT model can reate positive and negative word lexicons specific to Bitcoin tweets that in turn can be used as the basis for a new dataset to fine-tune the model for subsequent iterations.
+As an extra exercise, I found that the fine-tuned DistilBERT model can create positive and negative word lexicons specific to Bitcoin tweets that in turn can be used as the basis for a new dataset to fine-tune the model for subsequent iterations.
 
 At the time, this was the first project to: 1) employ a pre-Trained neural network to examine the relationship between Twitter sentiment about Bitcoin and Bitcoin trading; 2) develop positive and negtive word lexicons tailored specifically for Bitcoin; and 3) develop a model that can create a truly dynamic process for word lexicons about Bitcoin (as distinct from typically static word lexicons for finance that remain unchanged after publication).
